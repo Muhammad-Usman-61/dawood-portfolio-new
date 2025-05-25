@@ -1,5 +1,5 @@
 import { useRef, useEffect } from 'react';
-import { Navigation } from 'swiper';
+import { Navigation } from 'swiper/modules';
 import { Swiper, SwiperSlide } from 'swiper/react';
 import Link from 'next/link'
 import blogs from '../../api/blogs'
