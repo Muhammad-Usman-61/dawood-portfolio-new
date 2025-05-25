@@ -43,6 +43,7 @@
     "simple-react-validator": "^1.5.0",
     "slick-carousel": "^1.8.1",
     "styled-components": "^5.3.6",
+    "swiper": "^11.2.8",
     "yet-another-react-lightbox": "^3.17.0"
   }
 }
